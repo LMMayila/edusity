@@ -9,10 +9,10 @@ import Campus from './Components/Campus.jsx'
 import Testimonials from './Components/Testimonials.jsx'
 import Contact from './Components/Contact.jsx'
 import Footer from './Components/Footer.jsx'
-import Videoplayer from './Components/Videoplayer.jsx'
+
 const App = () => {
 
-  const[playState, setPlayState] = useState(false);
+
 
   return (
   <>
@@ -32,7 +32,6 @@ const App = () => {
   </div>
 
  
-<Videoplayer playState={playState} setPlayState={setPlayState}/>
 
   </>
   )
