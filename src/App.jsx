@@ -1,5 +1,5 @@
-import {useState} from 'react'
 
+import React,{useState} from 'react'
 import Navbar from './Components/Navbar.jsx'
 import Hero from './Components/Hero.jsx'
 import Program from './Components/Program.jsx'
@@ -12,7 +12,7 @@ import Footer from './Components/Footer.jsx'
 
 const App = () => {
 
-
+  const[playState, setPlayState] = useState(false);
 
   return (
   <>
