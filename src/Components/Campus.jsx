@@ -1,4 +1,4 @@
-import React from 'react'
+
 import '../styles/campus.css'
 import gallery_1 from '../assets/smf2.jpeg'
 import gallery_2 from '../assets/smf5.jpeg'

@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import  { useEffect, useState } from 'react';
 import '../styles/Navbar.css';
 import logo from '../assets/yolo7-removebg.png';
 import { Link } from 'react-scroll';

@@ -1,4 +1,4 @@
-import React, { useRef } from 'react'
+import { useRef } from 'react'
 import '../styles/Testimonials.css'
 import next_icon from '../assets/next-icon.png'
 import prev_icon from '../assets/back-icon.png'
